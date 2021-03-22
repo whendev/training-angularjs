@@ -4,5 +4,6 @@
 
 
 - [x] Tutorial da documentação -- https://docs.angularjs.org/tutorial
+- [x] AngularJS Funfamentals -- https://www.youtube.com/watch?v=i9MHigUZKEM&t=3343s
 - [x] Guia de estilo angular -- https://github.com/johnpapa/angular-styleguide
-
+- [x] AngularJS styleguide (ES2015) -- https://github.com/toddmotto/angularjs-styleguide
